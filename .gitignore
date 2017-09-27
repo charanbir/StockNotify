@@ -1,0 +1,10 @@
+app/app.iml
+*.iml
+.*
+!.gitignore
+app/src/main/assets/config.properties
+my-release-key.keystore
+import-summary.txt
+app/build/*
+build/*
+app/app-release.apk
